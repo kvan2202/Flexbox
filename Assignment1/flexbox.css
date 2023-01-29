@@ -1,0 +1,50 @@
+body{
+    background-color: #e6e6ff;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 70px;
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    font-weight: bold;
+    background-color: white;
+    display: flex;
+    border-radius: 25px;
+    padding: 10px;
+}
+div{
+    border-radius: 15px;
+    padding: 6px 12px;
+    background-color: rgb(235, 233, 233);
+    margin-right: 10px;
+}
+.profile{
+    background-color: blue;
+
+}
+.profile a
+{
+    color: white;
+}
+
+.end{
+    justify-content: end;
+}
+.center{
+    justify-content: center;
+}
+.between{
+    justify-content: space-between;
+}
+.around{
+    justify-content: space-around;
+}
+.evenly{
+    justify-content: space-evenly;
+}
